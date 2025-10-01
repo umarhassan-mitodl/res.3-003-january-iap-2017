@@ -1,0 +1,70 @@
+{
+  "term": "January IAP",
+  "year": "2017",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Graphics and Visualization"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Software Design and Engineering"
+    ],
+    [
+      "Fine Arts",
+      "Game Design"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies",
+      "Digital Media"
+    ]
+  ],
+  "legacy_uid": "e7771532-1c42-3c40-f5b8-299c88054602",
+  "instructors": {
+    "content": [
+      "58b26586-6c5e-77dd-a1b4-9efaa2f5bb86",
+      "71256067-ccd6-9b51-a558-be1707508b94",
+      "4bdd07ef-988e-d779-49be-21f905fe565f",
+      "437b9cfd-afaa-e25c-bfb4-41087bbaa3a2"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "076b46dc-3dc2-4d0a-61d5-16a8d2fb648d",
+    "website": "res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017"
+  },
+  "course_title": "Learn to Build Your Own Videogame with the Unity Game Engine and Microsoft Kinect",
+  "hide_download": true,
+  "course_description": "This is a 9-day hands-on workshop about designing, building, and publishing simple educational videogames. No previous experience with computer programming or videogame design is required; beginning students will be taught everything they need to know and advanced students will be challenged to learn new skills. Participants will learn about videogame creation using the Unity game engine, collaborative software development using GitHub, gesture handling using the Microsoft Kinect, 3D digital object creation, videogame design, and small team management.\n\nThis course is offered during the Independent Activities Period (IAP), which is a special 4-week term at MIT that runs from the first week of January until the end of the month.\n",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.3-003",
+  "course_image_thumbnail": {
+    "content": "331aa23c-9f27-97f1-dcb7-ef533f263398",
+    "website": "res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017"
+  },
+  "hide_download_original": false,
+  "learning_resource_types": [
+    "Demonstration Videos",
+    "Tutorial Videos",
+    "Projects with Examples",
+    "Lecture Videos",
+    "Instructor Insights"
+  ],
+  "site_uid": "7c2b7875-a360-45f6-838c-7ac1044f3891",
+  "site_short_id": "res.3-003-january-iap-2017",
+  "site_url_path": "courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017",
+  "title": "Course Metadata"
+}

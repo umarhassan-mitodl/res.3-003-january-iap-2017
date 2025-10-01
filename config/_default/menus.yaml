@@ -1,0 +1,73 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: b6ccdb6a-fe56-6be0-2340-86382f780d1d
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 64974e9a-65f1-cbfe-8b8c-ed318348252f
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 20
+- identifier: e58ba409-f15f-06a3-b8f1-cd9fc04a6f96
+  name: Two Weeks, Two Life Skills
+  pageRef: /pages/instructor-insights/two-weeks-two-life-skills
+  parent: 64974e9a-65f1-cbfe-8b8c-ed318348252f
+  weight: 30
+- identifier: ae960acd-e1fd-6647-981a-a0d015460504
+  name: If You Know Something, Share it with Someone
+  pageRef: /pages/instructor-insights/if-you-know-something-share-it-with-someone
+  parent: 64974e9a-65f1-cbfe-8b8c-ed318348252f
+  weight: 40
+- identifier: d5e47884-d3c2-5082-2908-531e757c1745
+  name: Failing, On Purpose
+  pageRef: /pages/instructor-insights/failing-on-purpose
+  parent: 64974e9a-65f1-cbfe-8b8c-ed318348252f
+  weight: 50
+- identifier: 4dfeef2e-acd9-5e40-b139-6a76d4490dab
+  name: Impressions and Advice
+  pageRef: /pages/instructor-insights/impressions-and-advice
+  parent: 64974e9a-65f1-cbfe-8b8c-ed318348252f
+  weight: 60
+- identifier: f669058c-f8f9-20dd-d8b1-1b7617a3a767
+  name: Class Activities
+  pageRef: /pages/class-activities/
+  weight: 70
+- identifier: 5b151cad-29ac-952b-f31d-9cdf22b95bef
+  name: Getting Started
+  pageRef: /pages/class-activities/getting-started
+  parent: f669058c-f8f9-20dd-d8b1-1b7617a3a767
+  weight: 80
+- identifier: 0b759eb6-d4b4-baed-afc8-bf58c1e780ee
+  name: Guided Tutorial
+  pageRef: /pages/class-activities/guided-tutorial
+  parent: f669058c-f8f9-20dd-d8b1-1b7617a3a767
+  weight: 90
+- identifier: 51c2a235-b1c1-48e0-5200-4ab2a384f97b
+  name: Collaboration
+  pageRef: /pages/class-activities/collaboration
+  parent: f669058c-f8f9-20dd-d8b1-1b7617a3a767
+  weight: 100
+- identifier: 48db19f3-2847-8c3b-e3ad-7ce69c5aa9e0
+  name: Expanding on Tutorials
+  pageRef: /pages/class-activities/expanding-on-tutorials
+  parent: f669058c-f8f9-20dd-d8b1-1b7617a3a767
+  weight: 110
+- identifier: 0f036db7-c54a-1cc7-a1d0-7a87f0d7f880
+  name: Student Projects
+  pageRef: /pages/student-projects/
+  weight: 120
+- identifier: a27c7096-22f5-33d3-7924-cba8ea5aa93f
+  name: Short Project
+  pageRef: /pages/student-projects/short-project
+  parent: 0f036db7-c54a-1cc7-a1d0-7a87f0d7f880
+  weight: 130
+- identifier: 767c6fdd-74cf-47dc-df45-71a01a2af0c3
+  name: Long Project
+  pageRef: /pages/student-projects/long-project
+  parent: 0f036db7-c54a-1cc7-a1d0-7a87f0d7f880
+  weight: 140
+- identifier: 1a7402cd-bd5c-9be8-5ec1-286a3826da7b
+  name: Host Your Own Workshop
+  pageRef: /pages/host-your-own-workshop
+  weight: 150
